@@ -116,16 +116,6 @@ The test suite covers input validation helpers and requires no database connecti
 
 ---
 
-## Future Improvements
-
-- Add a `price` column directly on `Items` (currently salary on `Sellers` is reused as price).
-- Add a `quantity` column on `Items` to track stock.
-- Add a web interface (Flask or FastAPI).
-- Add pagination for long product/order lists.
-- Add unit tests for `DBModel` using a test database or mocking.
-
----
-
 ## License
 
 [MIT](LICENSE)
