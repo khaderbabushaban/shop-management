@@ -37,7 +37,7 @@ A command-line store management application built with Python and PostgreSQL. Su
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/shop-management.git
+git clone https://github.com/khaderbabushaban/shop-management.git
 cd shop-management
 
 # 2. Create and activate a virtual environment
